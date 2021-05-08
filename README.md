@@ -2,4 +2,4 @@ simple 'to do list' on vanilla js
 
 dev ed tutorial
 
-[Demohttps://eve5ince.github.io/todo/
+[Demo](https://eve5ince.github.io/todo/)
